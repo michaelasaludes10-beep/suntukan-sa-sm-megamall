@@ -1,6 +1,7 @@
 # comprog final project
 #  Manufacturing Yield & Downtime Dashboard
-**Group Members
+Group Members
+
 Ianjay Novelas
 
 Jacques Mendoza
@@ -13,7 +14,7 @@ Joshua Raflores
 
 Kent Ricamora
 
-Rhea Michaela A. Saludes**
+Rhea Michaela A. Saludes
 
 ## 📌 Project Overview
 This dashboard is designed for plant floor managers to monitor production processing times and predict potential downtime. Using Linear Regression and Statistical Process Control (SPC) logic, the tool identifies anomalies in real-time.

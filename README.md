@@ -1,6 +1,6 @@
-# suntukan-sa-sm-megamall
+# comprog final project
 # 🏭 Manufacturing Yield & Downtime Dashboard
-**comprog final project**
+****
 
 ## 📌 Project Overview
 This dashboard is designed for plant floor managers to monitor production processing times and predict potential downtime. Using Linear Regression and Statistical Process Control (SPC) logic, the tool identifies anomalies in real-time.

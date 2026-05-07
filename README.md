@@ -5,6 +5,9 @@
 ## 📌 Project Overview
 This dashboard is designed for plant floor managers to monitor production processing times and predict potential downtime. Using Linear Regression and Statistical Process Control (SPC) logic, the tool identifies anomalies in real-time.
 
+<img width="800" height="378" alt="ScreenRecording2026-05-07004318-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/501eaf30-dcdf-4f10-8b66-b9a6423f0538" />
+
+
 ## 🛠️ Tech Stack
 * **Language:** Python
 * **Dashboard:** Streamlit
